@@ -4,14 +4,14 @@
 def return_number_3():
     """ This function should return an integer with the value of 3"""
 
-    return_number = "3"
+    return_number_3 = "3"
     return return_number_3
 
 
 def return_string_vcu():
     """ This function should return a string with the lowercase value of vcu"""
 
-    return_string = "vcu"
+    return_string_vcu = "vcu"
     return return_string_vcu
 
 
