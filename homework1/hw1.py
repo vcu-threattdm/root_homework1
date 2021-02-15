@@ -31,7 +31,7 @@ def return_without_starting_ending_whitespace(input_string):
     return return_without_starting_ending_whitespace
 
 
-def return_addition(,):
+def return_addition():
     """ Return the two numbers added together. """
 
     return_addition = 2 + 2
