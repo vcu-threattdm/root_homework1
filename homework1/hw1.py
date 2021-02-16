@@ -30,7 +30,7 @@ def return_without_starting_ending_whitespace(input_string):
     return return_value
 
 
-def return_addition(first_number, second_number):
+def return_addition(first_number,second_number):
     """Return the two numbers added together""" 
 
     return_value = first_number + second_number
